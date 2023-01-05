@@ -29,7 +29,6 @@ const FooterBanner = ({
         <div className="right">
           <p>{smallText}</p>
           <h3>{midText}</h3>
-          <p>{desc}</p>
           <Link href={`/product/${product}`}>
             <button type="button">{buttonText}</button>
           </Link>
@@ -38,7 +37,7 @@ const FooterBanner = ({
         <img
           src={urlFor(image)}
           className="footer-banner-image"
-          style={{ height: "530px" }}
+
         />
       </div>
     </div>
