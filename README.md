@@ -1,7 +1,9 @@
-# A T shirt selling full stack website built using React and Next JS with payment gateway using Stripe
+# T-shirt Selling Full Stack Website built using React and Next JS with payment gateway using Stripe.
 
+A full stack e-commerce website developed with Next.js and React.js for front end. Website is mobile and desktop responsive.  API for back-end inventory management and an admin panel using sanity.io. Built in stripe payments as payment gateway.
+ 
 
-
+***
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
